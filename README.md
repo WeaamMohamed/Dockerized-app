@@ -6,6 +6,7 @@ This project is a learning exercise to demonstrate how to containerize a Node.js
 
 The goal is to understand Docker concepts, container orchestration, and how to integrate multiple services in a Dockerized environment. This is not a full-fledged production application but a simple example for educational purposes.
 
+You can check the course on youtube: https://www.youtube.com/watch?v=tHP5IWfqPKk&list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR&ab_channel=Tresmerge 
 
 ## Technologies Used
 - **Node.js**: Backend server.
